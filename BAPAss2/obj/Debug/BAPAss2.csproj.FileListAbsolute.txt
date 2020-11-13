@@ -1,0 +1,10 @@
+C:\Users\mattd\source\repos\BAPAss2\BAPAss2\bin\Debug\BAPAss2.exe.config
+C:\Users\mattd\source\repos\BAPAss2\BAPAss2\bin\Debug\BAPAss2.exe
+C:\Users\mattd\source\repos\BAPAss2\BAPAss2\bin\Debug\BAPAss2.pdb
+C:\Users\mattd\source\repos\BAPAss2\BAPAss2\obj\Debug\BAPAss2.csprojAssemblyReference.cache
+C:\Users\mattd\source\repos\BAPAss2\BAPAss2\obj\Debug\BAPAss2.Form1.resources
+C:\Users\mattd\source\repos\BAPAss2\BAPAss2\obj\Debug\BAPAss2.Properties.Resources.resources
+C:\Users\mattd\source\repos\BAPAss2\BAPAss2\obj\Debug\BAPAss2.csproj.GenerateResource.cache
+C:\Users\mattd\source\repos\BAPAss2\BAPAss2\obj\Debug\BAPAss2.csproj.CoreCompileInputs.cache
+C:\Users\mattd\source\repos\BAPAss2\BAPAss2\obj\Debug\BAPAss2.exe
+C:\Users\mattd\source\repos\BAPAss2\BAPAss2\obj\Debug\BAPAss2.pdb
